@@ -70,7 +70,7 @@ This project is licensed under the **MIT License**, so feel free to use it for p
 ---
 
 ## ✨ **Acknowledgments**  
-This project is part of the **Salafi Coding Initiative** aimed at making programming fun, interactive, and accessible for everyone.  
+This project is part of the **Salafi Coding Project** aimed at making programming fun, interactive, and accessible for everyone.  
 
 ---
 
