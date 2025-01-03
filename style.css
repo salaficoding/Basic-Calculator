@@ -1,0 +1,71 @@
+/* General Body Styling */
+body {
+    background-color: #000;
+    /* Black Background */
+    color: #fff;
+    /* White Text */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Calculator Container */
+.calculator {
+    width: 300px;
+    background-color: #1a1a1a;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+}
+
+/* Display Styling */
+.display {
+    margin-bottom: 20px;
+}
+
+.display input {
+    width: 100%;
+    padding: 15px;
+    font-size: 1.5rem;
+    text-align: right;
+    background-color: #000;
+    /* Black Background for Input */
+    color: #fff;
+    /* White Text */
+    border: none;
+    border-radius: 10px;
+    outline: none;
+}
+
+/* Buttons Styling */
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+button {
+    padding: 15px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fff;
+    /* White Text */
+    background-color: #a65ef1;
+    /* Purple Buttons */
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+button:hover {
+    background-color: #8e46d6;
+}
+
+button:active {
+    background-color: #6f36b3;
+}
