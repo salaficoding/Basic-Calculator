@@ -1,6 +1,6 @@
 # 🧮 Modern Calculator - Salafi Coding Theme  
 
-Welcome to the **Modern Calculator** project! This sleek, fully functional calculator is built using **HTML**, **CSS**, and **JavaScript**, and is styled with the **Salafi Coding** theme, featuring a stunning combination of **purple, black, and white**. Whether you're a beginner looking to learn how calculators work or just need a stylish calculator for your web projects, this is the perfect tool for you!  
+Welcome to the **Modern Calculator** project! This sleek, fully functional calculator is built using **HTML**, **CSS**, and **JavaScript**, and is styled with the **Salafi Coding** theme, featuring a combination of **purple, black, and white**. Whether you're a beginner looking to learn how calculators work or just need a stylish calculator for your web projects, this is the perfect tool for you!  
 
 ---
 
